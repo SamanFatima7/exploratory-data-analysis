@@ -76,6 +76,6 @@ Datasets are linked from each notebook on Kaggle.
 
 ## 👋 About
 
-I'm Saman Fatima — Kaggle Legacy Grandmaster (rank ~191), data scientist from Pakistan. More of my work lives on [Kaggle](https://www.kaggle.com/samanfatima7) and [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
+I'm Saman Fatima — Kaggle Grandmaster (highest rank 24 ), data scientist from Pakistan. More of my work lives on [Kaggle](https://www.kaggle.com/samanfatima7) and [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
 
 If you found something useful here, a ⭐ goes a long way.
